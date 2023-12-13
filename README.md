@@ -26,6 +26,7 @@ The app has been designed and developed using the Android Studio IDE and the Kot
 # Testing Screenshots
  
 Figure 1 Data Loading state (On launch)
+![image](https://github.com/snehaawate/GeoFinder/assets/104198663/6d524b57-f3c7-45cd-ba7d-922ec3171d17)
 
 
  
