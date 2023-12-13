@@ -7,17 +7,17 @@ The project is about developing a Kotlin based android mobile application that w
 # Functional Features
 	
 The main features of the application are as follows:
-•	Fetch details about all countries from a public API source
-•	Display a list of all country names on the app home screen
-•	Upon clicking on a country name, the user can view certain details about the selected country including their name, continent or region, capital city and population.
-•	There is to be an option for users to filter the list of countries that they want to be displayed. A filter based on the Continent or Region is going to be crucial.
-•	The app must have two visual modes that is a Dark mode and a Light Mode. There ought to be a switch that will allow the users to change the colour mode of the application, across all views or screens.
-•	The app is needed to have a local storage system or caching mechanism that will allow it to store the list of countries and not load it everytime from the API. Only when the app is launched, the data shall be fetched from the online API source, but after that, there must not be any need for internet connection. This means that the users can keep using the app, navigate between multiple screens and still use the app, offline.
-•	The app must have a loading screen in order to keep the users in-app, while the data is fetched from the online API, whenever the app is launched. However, once loaded, the loading state should not appear.
+•Fetch details about all countries from a public API source
+•Display a list of all country names on the app home screen
+•Upon clicking on a country name, the user can view certain details about the selected country including their name, continent or region, capital city and population.
+•There is to be an option for users to filter the list of countries that they want to be displayed. A filter based on the Continent or Region is going to be crucial.
+•The app must have two visual modes that is a Dark mode and a Light Mode. There ought to be a switch that will allow the users to change the colour mode of the application, across all views or screens.
+•The app is needed to have a local storage system or caching mechanism that will allow it to store the list of countries and not load it everytime from the API. Only when the app is launched, the data shall be fetched from the online API source, but after that, there must not be any need for internet connection. This means that the users can keep using the app, navigate between multiple screens and still use the app, offline.
+•The app must have a loading screen in order to keep the users in-app, while the data is fetched from the online API, whenever the app is launched. However, once loaded, the loading state should not appear.
 
 # The Chosen API
 
-	The countryapi.io has been chosen for this project. They provide a public endpoint to their dataset about every countries in the world, consisting of all necessary details.
+The countryapi.io has been chosen for this project. They provide a public endpoint to their dataset about every countries in the world, consisting of all necessary details.
 
 # Development Approach
 
