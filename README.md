@@ -28,19 +28,22 @@ The app has been designed and developed using the Android Studio IDE and the Kot
 Figure 1 Data Loading state (On launch)
 ![image](https://github.com/snehaawate/GeoFinder/assets/104198663/6d524b57-f3c7-45cd-ba7d-922ec3171d17)
 
-
  
 Figure 2 Dark Mode (Home Screen)
+![image](https://github.com/snehaawate/GeoFinder/assets/104198663/e5795764-072f-4fec-b7b1-abe174ee41d3)
 
  
 Figure 3 Light Mode (Home Screen)
+![image](https://github.com/snehaawate/GeoFinder/assets/104198663/d8085420-6949-47f8-aa1c-858d9a8e2000)
 
  
-Figure 4Filtering by Region
+Figure 4 Filtering by Region
+![image](https://github.com/snehaawate/GeoFinder/assets/104198663/07e70a86-f63a-47f9-ba34-1108eca54ad8)
 
  
 Figure 5 Clicking on Italy for details
+![image](https://github.com/snehaawate/GeoFinder/assets/104198663/94a42584-901e-446c-b9a9-e2562f235585)
 
  
 Figure 6 All Details about Italy
-
+![image](https://github.com/snehaawate/GeoFinder/assets/104198663/1003c396-c803-45d7-8a5b-39fd05f18b0f)
